@@ -1,3 +1,29 @@
+# React Developer E-Commerce Project
+
+The goal of this particular project is to showcase myself as a complete React developer by building a massive fully fledged E-commerce app with Redux, Hooks, GraphQL, the Stripe API, and Firebase.
+
+In this application you will see the following:
+
+- React Basics
+- React Router to move between pages
+- Redux to store state
+- Redux-Saga as a scalable way to handle asynchronous actions
+- Firebase
+- Stripe (payments) API for online purchases/ taking payments
+- CSS in Javascript with Styled Components library
+- GraphQL to manage larger scale our state
+
+Later on:
+
+- Implementing Hooks to see how it compares with Redux
+- Context API to compare how it works with Redux and Hooks
+- Typescript
+- Implement Firebase features
+- Create Stripe backend so the app can actually process payments
+- Performance to scale the application and make it "performant"
+- Convert app to Progressive Web App (PWA)
+- Testing by using the Jest Library to practice writing tests, including snapshot testing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
