@@ -10,7 +10,7 @@ In this application you will see the following:
 - Redux-Saga as a scalable way to handle asynchronous actions
 - Firebase
 - Stripe (payments) API for online purchases/ taking payments
-- CSS in Javascript with Styled Components library
+- CSS in Javascript with Styled Components library SASS or SCSS
 - GraphQL to manage larger scale our state
 
 Later on:
