@@ -1,6 +1,6 @@
 # React Developer E-Commerce Project
 
-The goal of this particular project is to showcase myself as a complete React developer by building a massive fully fledged E-commerce app with Redux, Hooks, GraphQL, the Stripe API, and Firebase.
+The goal of this particular project is to showcase myself as a complete React developer by building a massive full fledged E-commerce app with Redux, Hooks, GraphQL, the Stripe API, and Firebase.
 
 In this application you will see the following:
 
