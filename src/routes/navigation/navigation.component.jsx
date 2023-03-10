@@ -23,6 +23,9 @@ const Navigation = () => {
           <CrwnLogo className='logo' />
         </Link>
         <div className='nav-links-container'>
+        <div className="source-code">
+        <a href="https://github.com/EmmyEJohnson/react-ecommerce-store">Source Code</a>
+        </div>
           <Link className='nav-link' to='/shop'>
             SHOP
           </Link>
