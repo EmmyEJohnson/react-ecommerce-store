@@ -11,7 +11,7 @@ In this application you will see the following:
 - Redux-Saga as a scalable way to handle asynchronous actions
 - Stripe (payments) API for online purchases/ taking payments
 - CSS in Javascript with Styled Components library SASS or SCSS
-- GraphQL to manage larger scale our state
+- GraphQL to manage larger scale our state which will evetually replace Redux
 
 Later on:
 
