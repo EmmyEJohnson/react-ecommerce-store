@@ -6,9 +6,9 @@ In this application you will see the following:
 
 - React Basics
 - React Router to move between pages
+- Firebase
 - Redux to store state
 - Redux-Saga as a scalable way to handle asynchronous actions
-- Firebase
 - Stripe (payments) API for online purchases/ taking payments
 - CSS in Javascript with Styled Components library SASS or SCSS
 - GraphQL to manage larger scale our state
