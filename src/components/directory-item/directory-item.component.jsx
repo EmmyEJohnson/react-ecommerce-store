@@ -10,7 +10,7 @@ const DirectoryItem = ({ category }) => {
           backgroundImage: `url(${imageUrl})`,
         }}
       />
-      <div className='body'>
+      <div className='directory-item-body'>
         <h2>{title}</h2>
         <p>Shop Now</p>
       </div>
@@ -19,3 +19,8 @@ const DirectoryItem = ({ category }) => {
 };
 
 export default DirectoryItem;
+
+
+
+
+
